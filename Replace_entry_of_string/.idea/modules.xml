@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Employee_report/Employee_report.iml" filepath="$PROJECT_DIR$/../Employee_report/Employee_report.iml" />
       <module fileurl="file://$PROJECT_DIR$/../List of students/List of students.iml" filepath="$PROJECT_DIR$/../List of students/List of students.iml" />
       <module fileurl="file://$PROJECT_DIR$/Replace_entry_of_string.iml" filepath="$PROJECT_DIR$/Replace_entry_of_string.iml" />
     </modules>
