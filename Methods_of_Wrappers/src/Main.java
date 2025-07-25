@@ -10,7 +10,7 @@ public class Main {
         System.out.println(double_prim1);
         System.out.println(double_prim2);
 
-        double double_prim = double1.intValue();  //  Double -> primitive types
+        double double_prim = double1.intValue();  //  Objects -> primitive types
         int int_prim = double1.intValue();
         byte byte_prim = double1.byteValue();
         short short_prim = double1.shortValue();

@@ -6,6 +6,6 @@ public class Main {
         arr[1].full_name = "Палмер"; arr[1].salary = 430;
         arr[2].full_name = "Кларк"; arr[2].salary = 470;
         arr[3].full_name = "Уотсон"; arr[3].salary = 450;
-        Report.generateReport(arr);
+        Report.generateReport(arr); Full_report.generateReport(arr);
     }
 }
